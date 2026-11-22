@@ -249,6 +249,15 @@ h2 {
     font-size: 12px;
 }
 
+/* Indikator fokus untuk pengguna keyboard */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+    outline: 3px solid #1f5fae;
+    outline-offset: 3px;
+}
+
 /* Penyesuaian untuk layar yang lebih lebar */
 @media (min-width: 768px) {
     .header-content {
