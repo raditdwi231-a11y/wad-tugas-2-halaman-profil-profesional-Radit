@@ -41,7 +41,7 @@ body {
 
 .logo span,
 .hero h1 span {
-    color: #2878d0;
+    color: #1f5fae;
 }
 
 .main-nav {
@@ -70,7 +70,7 @@ body {
 }
 
 .eyebrow {
-    color: #2878d0;
+    color: #1f5fae;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: 1.5px;
@@ -97,7 +97,7 @@ h2 {
 
 .hero-description {
     max-width: 570px;
-    color: #78869a;
+    color: #637187;
     margin-bottom: 25px;
 }
 
@@ -107,7 +107,7 @@ h2 {
     border-radius: 7px;
     padding: 12px 20px;
     color: #ffffff;
-    background: #2878d0;
+    background: #1f5fae;
     font: inherit;
     font-weight: 700;
     text-decoration: none;
@@ -178,7 +178,7 @@ h2 {
 
 .skill-card p {
     margin-bottom: 0;
-    color: #78869a;
+    color: #637187;
     font-size: 14px;
 }
 
